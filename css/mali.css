@@ -1,0 +1,13 @@
+/* mali-regular - latin_vietnamese */
+@font-face {
+  font-family: 'Mali';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/mali/mali-v3-latin_vietnamese-regular.eot'); /* IE9 Compat Modes */
+  src: local('Mali Regular'), local('Mali-Regular'),
+       url('../fonts/mali/mali-v3-latin_vietnamese-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/mali/mali-v3-latin_vietnamese-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/mali/mali-v3-latin_vietnamese-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/mali/mali-v3-latin_vietnamese-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/mali/mali-v3-latin_vietnamese-regular.svg#Mali') format('svg'); /* Legacy iOS */
+}
